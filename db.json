@@ -1,0 +1,17 @@
+{
+    "categorias": [
+        {
+            "id":"1",
+            "nome": "FrontEWnd",
+            "descricao": "Uma categoria bacana",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id":"2",
+            "nome": "BackEWnd",
+            "descricao": "Uma categoria +-",
+            "cor": "#cbd1ff"
+        }
+
+    ]
+}
